@@ -58,10 +58,10 @@ https://documenter.getpostman.com/view/26184153/2sB2x6nXqa
 ```
 ---
 
-## 🧑‍💻 Author
+## Author
 
 - **Josh (Immanuel Joshua)**
 - 📧 Email: immanjosh4@gmail.com
 ---
 
-> Feel free to fork, improve or deploy it anywhere 🔥
+> Feel free to fork, improve or deploy it anywhere
